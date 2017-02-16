@@ -10,9 +10,20 @@
   "author": "Code Fellows",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3",
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
     "pg": "^6.1.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadik223/08-SQL-introduction.git"
+  },
+  "keywords": [
+    "lab-08"
+  ],
+  "bugs": {
+    "url": "https://github.com/nomadik223/08-SQL-introduction/issues"
+  },
+  "homepage": "https://github.com/nomadik223/08-SQL-introduction#readme"
 }
