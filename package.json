@@ -1,0 +1,24 @@
+{
+  "name": "lab-08",
+  "version": "1.0.0",
+  "description": "lab-08",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "pg": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadik223/08-SQL-introduction.git"
+  },
+  "author": "nomad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadik223/08-SQL-introduction/issues"
+  },
+  "homepage": "https://github.com/nomadik223/08-SQL-introduction#readme"
+}
