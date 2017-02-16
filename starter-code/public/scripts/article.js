@@ -191,4 +191,4 @@ Article.prototype.updateRecord = function (callback) {
       console.log(data);
       if (callback) callback();
     });
-}; 
+};

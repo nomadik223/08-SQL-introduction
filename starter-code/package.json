@@ -1,10 +1,11 @@
 {
-  "name": "mvc-blog",
+  "name": "lab-08",
   "version": "1.0.0",
   "description": "As we now complete our MVC conversation, we can refactor our app to use good MVC separation of concerns.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Code Fellows",
   "license": "ISC",
@@ -12,5 +13,17 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.1",
     "pg": "^6.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadik223/08-SQL-introduction.git"
+  },
+  "keywords": [
+    "lab-08"
+  ],
+  "bugs": {
+    "url": "https://github.com/nomadik223/08-SQL-introduction/issues"
+  },
+  "homepage": "https://github.com/nomadik223/08-SQL-introduction#readme"
 }
