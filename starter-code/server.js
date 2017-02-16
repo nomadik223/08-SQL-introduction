@@ -10,7 +10,7 @@ const app = express();
 // Windows and Linux users; You should have retained the user/pw from the pre-work for this course.
 // Your url may require that it's composed of additional information including user and password7
 // NOTE: Students will have varying URLs depending on their OS
-const conString = 'postgres://postgres:B86j07L13@localhost:5432/postgres';
+const conString = 'postgres://localhost:5432';
 // REVIEW: Pass the conString to pg, which creates a new client object
 const client = new pg.Client(conString);
 // REVIEW: Use the client object to connect to our DB.
